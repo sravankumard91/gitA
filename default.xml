@@ -4,8 +4,8 @@
 	
 	<default remote="origin" sync-j="4" revision="master"/>
 	
-	<project name="gitA" path="folder-from-gitA" />
-	<project name="gitB" path="folder-from-gitB" />
-	<project name="gitC" path="subdirectory\folder-from-gitC" />
+	<project name="gitA" path="folder-from-gitA" revision="master" />
+	<project name="gitB" path="folder-from-gitB" revision="master" />
+	<project name="gitC" path="subdirectory\folder-from-gitC" revision="master" />
 	
 </manifest>
