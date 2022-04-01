@@ -6,6 +6,6 @@
 	
 	<project name="gitA" path="A" />
 	<project name="gitB" path="B" />
-	<project name="gitC" path="subfolder\C" />
+	<project name="gitC" path="subdirectory\C" />
 	
 </manifest>
