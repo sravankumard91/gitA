@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" fetch="https://github.com/sravankumard91" />
+	
+	<default remote="origin" sync-j="3" revision="master"/>
+	
+	<project name="gitA.git" path="folder-from-gitA" revision="master" />
+	<project name="gitB.git" path="folder-from-gitB"  revision="master" />
+	<project name="gitC.git" path="subdirectory\folder-from-gitC" revision="master" />
+	
+</manifest>
