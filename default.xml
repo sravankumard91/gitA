@@ -2,7 +2,7 @@
 <manifest>
 	<remote fetch="https://github.com/sravankumard91" name="origin"/>
 	
-	<default remote="origin" sync-j="4" revision="master"/>
+	<default remote="origin" sync-j="3" revision="master"/>
 	
 	<project name="gitA" path="folder-from-gitA" revision="master" />
 	<project name="gitB" path="folder-from-gitB" revision="master" />
