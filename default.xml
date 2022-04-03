@@ -7,5 +7,6 @@
 	<project name="gitA.git" path="folder-from-gitA" revision="master" />
 	<project name="gitB.git" path="folder-from-gitB" revision="master" />
 	<project name="gitC.git" path="subdirectory\folder-from-gitC" revision="master" />
+		<linkfile src="dockerd/trap/trap_linux_test.go" dest="LinuxTestTrap"/>
 	
 </manifest>
