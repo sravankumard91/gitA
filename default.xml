@@ -4,8 +4,8 @@
 	
 	<default remote="origin" sync-j="3" revision="master"/>
 	
-	<project name="gitA.git" path="folder-from-gitA" revision="master" />
-	<project name="gitB.git" path="folder-from-gitB"  revision="master" />
-	<project name="gitC.git" path="subdirectory\folder-from-gitC" revision="master" />
+	<project name="gitA.git" path="folder-from-gitA" revision="1edfefbee13eb304276859fceeaf3fef59afdfa3" upstream="master" dest-branch="master" />
+	<project name="gitB.git" path="folder-from-gitB"  revision="532063df9f2389d362de1368ca5822777bd74101" upstream="master" dest-branch="master" />
+	<project name="gitC.git" path="subdirectory\folder-from-gitC" revision="fe3f4cc454e5faf1f9df6c257ea66a5c193ef0ca" upstream="master" dest-branch="master" />
 	
 </manifest>
